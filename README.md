@@ -23,6 +23,15 @@
 - Recall;
 - F1.
 
+### Источник данных
+
+Sakar, C. & Kastro, Y. (2018).  
+**Online Shoppers Purchasing Intention Dataset**.  
+UCI Machine Learning Repository.
+
+- DOI: `10.24432/C5F88Q`
+- Лицензия: `CC BY 4.0`
+
 ## Структура проекта
 
 ```text
