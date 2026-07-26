@@ -1,7 +1,5 @@
 # Homework 1 — Online Shoppers Purchasing Intention
 
-Домашняя работа №1 курса **ML Start 2026** по классическому машинному обучению.
-
 Цель проекта — построить модель бинарной классификации, которая по характеристикам пользовательской сессии предсказывает, завершится ли она покупкой (`Revenue=True`).
 
 ## Датасет
@@ -134,7 +132,7 @@ Confusion matrix финальной модели:
 1. Клонировать репозиторий:
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone <https://github.com/andreym1234/homework-1-online-shoppers>
 cd homework-1-online-shoppers
 ```
 
