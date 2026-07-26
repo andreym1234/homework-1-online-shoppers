@@ -36,11 +36,12 @@ UCI Machine Learning Repository.
 
 ```text
 homework-1-online-shoppers/
+├── data/
+│   └── online_shoppers_intention.csv
+├── .gitignore
 ├── README.md
-├── research.ipynb
 ├── requirements.txt
-└── data/
-    └── online_shoppers_intention.csv
+└── research.ipynb
 ```
 
 ## Что выполнено
