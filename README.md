@@ -141,7 +141,7 @@ Confusion matrix финальной модели:
 1. Клонировать репозиторий:
 
 ```bash
-git clone <https://github.com/andreym1234/homework-1-online-shoppers>
+git clone https://github.com/andreym1234/homework-1-online-shoppers
 cd homework-1-online-shoppers
 ```
 
